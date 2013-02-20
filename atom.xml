@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[北极光]]></title>
+  <link href="http://anderw.github.com/atom.xml" rel="self"/>
+  <link href="http://anderw.github.com/"/>
+  <updated>2013-02-20T16:10:36+08:00</updated>
+  <id>http://anderw.github.com/</id>
+  <author>
+    <name><![CDATA[赵鹏超]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

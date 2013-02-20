@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://anderw.github.com/sitemap.xml 
