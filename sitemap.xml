@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://anderw.github.comblog/sf/</loc>
+        <lastmod>2013-02-22T10:43:55+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://anderw.github.comblog/sdjhjf/</loc>
+        <lastmod>2013-02-22T10:45:27+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://anderw.github.com/blog/archives/</loc>
-        <lastmod>2013-02-22T10:33:37+08:00</lastmod>
+        <lastmod>2013-02-22T10:45:27+08:00</lastmod>
     </url>
     <url>
         <loc>http://anderw.github.com/</loc>
-        <lastmod>2013-02-21T17:28:35+08:00</lastmod>
+        <lastmod>2013-02-22T10:57:51+08:00</lastmod>
     </url>
     <url>
         <loc>http://anderw.github.com/robots.txt</loc>
